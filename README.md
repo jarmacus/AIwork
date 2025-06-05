@@ -16,6 +16,10 @@ https://github.com/davisking/dlib-models/tree/master
 
 https://github.com/idealo/imagededup
 
+人脸识别使用的是dlib的官方代码
+
+https://github.com/Kagami/go-face-testdata/tree/master/models
+
 2.数据存储：采用数据库，使用的是SQLite
 
 全部的代码可从网盘提取：
